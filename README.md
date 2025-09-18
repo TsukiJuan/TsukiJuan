@@ -7,7 +7,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<br>📚 I'm currently learning [JS]🌙
+📚 I'm currently learning [JS]🌙
 
 
 <h2 align="left">I code with</h2>
