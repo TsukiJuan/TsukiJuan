@@ -1,4 +1,4 @@
-<h1 align="left">Hi, i'm TsukiJuan</h1>
+<h1 align="left">Hi, i'm TsukiJuan.</h1>
 
 ###
 
