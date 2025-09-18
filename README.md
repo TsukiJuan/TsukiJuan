@@ -9,11 +9,6 @@
 ###
 <br>📚 I'm currently learning [JS]🌙
 <br>
-<h3 align="left">2025 Progress</h2>
-<br>📚JIRA
-<br>📚Javascript
-<br>📚React 
-
 ###
 
 <h2 align="left">I code with</h2>
