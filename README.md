@@ -7,7 +7,12 @@
 <h2 align="left">About me</h2>
 
 ###
-<br>📚 I'm currently learning <JS>🌙
+<br>📚 I'm currently learning [JS]🌙
+<br>
+<h3 align="left">2025 Progress</h2>
+<br>📚JIRA
+<br>📚Javascript
+<br>📚React 
 
 ###
 
