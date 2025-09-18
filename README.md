@@ -7,7 +7,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<br>📚 I'm currently learning ...<JS>🎯 Goals: Learn JS,TS,<br>🎲
+<br>📚 I'm currently learning <JS>🌙
 
 ###
 
