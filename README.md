@@ -7,7 +7,7 @@
 <h2 align="left">About me</h2>
 
 ###
-📚 I'm currently learning [JS]🌙
+📚 I'm currently learning [Rust]🌙
 
 ###
 
