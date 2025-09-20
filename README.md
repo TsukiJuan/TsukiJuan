@@ -14,7 +14,7 @@
  
 
 ###
-📚 I'm currently learning [Rust]🌙
+<p align = "center">📚 I'm currently learning [Rust]🌙 </p>
 
 
 
