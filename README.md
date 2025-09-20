@@ -1,4 +1,4 @@
-<h1 align="left">Hi, i'm Juan.</h1>
+<h1 align="center">Hi, i'm Juan.</h1>
  
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/27/34/4a/27344a307b56fabe9396e22a8357181e.gif"  />
@@ -7,7 +7,7 @@
 ###
 
 ###
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 <div align="center">
  <img align="center" width="200" src="img/A silent voice.jpg" />
 </div>
@@ -18,7 +18,7 @@
 
 
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
