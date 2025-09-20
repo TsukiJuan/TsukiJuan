@@ -1,29 +1,10 @@
 <h1 align="left">Hi, i'm Juan.</h1>
 
-###
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 📚 I'm currently learning [Rust]🌙
 
-###
-
-###
-
-
-###
-
-
-
-###
-
-
-###
-
-###
 
 
 <h2 align="left">I code with</h2>
