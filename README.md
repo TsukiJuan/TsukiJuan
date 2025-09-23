@@ -1,4 +1,5 @@
-<h1 align="center">Hi, i'm Juan.</h1>
+<h1 align="center">Hi, i'm Juan.<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/6928e471-edce-48cf-92e6-d47c7b6f9ad9" />
+</h1>
  
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/27/34/4a/27344a307b56fabe9396e22a8357181e.gif"  />
