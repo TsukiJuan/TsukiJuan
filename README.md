@@ -1,4 +1,5 @@
-<h1 align="center">Hi, i'm Juan. https://gist.github.com/rxaviers/7360908#:~:text=%F0%9F%90%B1-,%3Acat%3A,-%F0%9F%90%B6%20%3Adog%3A
+<h1 align="center">Hi, i'm Juan. <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/6ba7ee74-eda7-440e-b92c-a0a29c455bed" />
+
 </h1>
  
 <div align="center">
