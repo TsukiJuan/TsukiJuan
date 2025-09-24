@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Juan. ❄️
+<h1 align="center">Hi, i'm Juan.❄️
 
 </h1>
  
