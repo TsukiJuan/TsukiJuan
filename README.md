@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Juan. <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/6ba7ee74-eda7-440e-b92c-a0a29c455bed" />
+<h1 align="center">Hi, i'm Juan. ❄️
 
 </h1>
  
