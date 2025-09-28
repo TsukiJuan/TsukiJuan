@@ -15,14 +15,11 @@
 </div>
  
 
-###
 <p align = "center">📚 I'm currently learning [Rust]🌙 </p>
 
 
 
 <h2 align="center">I code with.</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
