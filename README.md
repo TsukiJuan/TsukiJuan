@@ -10,10 +10,10 @@
 ###
 
 ###
-<h2 align="center">About me.</h2>
+<h2 align="center">About me. I miss u val</h2>
 <div align="center">
  <img align="center" width="200" src="img/A silent voice.jpg" />
-</div>
+</div> 
  
 
 <p align = "center">📚 I'm currently learning [Rust]🌙 </p>
