@@ -45,9 +45,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
-
-<!-- GitHub Stats -->
-<div align="center" style="padding: 50px;">
-  <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsukiJuan&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
